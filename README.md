@@ -1,5 +1,5 @@
 # 💫 About Me:
-HI, I am Amanpreet Singh <br>Web Developer  & Artificial Engineer! <br>I’m a Web Developer and AI Engineer passionate about creating modern digital experiences powered by intelligent technology. <br>I explore full-stack development, AI systems, automation, APIs, and emerging technologies to turn ideas into practical, scalable solutions.
+<h1><b>HI, I am Amanpreet Singh</b><h1> <br><h3>Web Developer  & Artificial Engineer!</h3> <br>I’m a Web Developer and AI Engineer passionate about creating modern digital experiences powered by intelligent technology. <br>I explore full-stack development, AI systems, automation, APIs, and emerging technologies to turn ideas into practical, scalable solutions.
 
 
 ## 🌐 Socials:
